@@ -1,0 +1,56 @@
+[
+    {
+        "id": "001",
+        "name": "Mridula Alam",
+        "experience_years": 12,
+        "img_url": "https://www.staffingattiffanies.com/wp-content/uploads/2021/08/happy-male-indian-chef.jpg",
+        "num_recipes": 73,
+        "likes": 2415,
+        "bio": "Mridula Alam is a renowned chef with over a decade of experience in traditional Bangladeshi cuisine. She has been featured in several cooking shows and is known for her signature dishes, such as the Dhaka-style beef curry and the spicy shrimp jhol. Mridula is passionate about using locally-sourced ingredients and showcasing the rich flavors of Bangladeshi cuisine."
+    },
+    {
+        "id": "002",
+        "name": "Sana Ahmed",
+        "experience_years": 8,
+        "img_url": "https://www.libm.co.uk/wp-content/uploads/2017/08/158-Diploma-in-Professional-Chef.jpg",
+        "num_recipes": 62,
+        "likes": 1862,
+        "bio": "Kabir Ahmed is a young and innovative chef who has gained a following for his fusion cuisine that combines traditional Bangladeshi flavors with modern techniques. He has won several awards for his unique dishes, such as the chicken tikka masala pizza and the chana masala tacos. Kabir is committed to creating exciting and accessible cuisine that appeals to a diverse audience."
+    },
+    {
+        "id": "003",
+        "name": "Nadim khan",
+        "experience_years": 15,
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRjb4xDJX9rmtxyW6CcdqzBTMNy6rJHowbuw&usqp=CAU",
+        "num_recipes": 89,
+        "likes": 3271,
+        "bio": "Nadia Begum is a veteran chef who has spent her career preserving and promoting traditional Bangladeshi cuisine. She is the author of several cookbooks and has taught cooking classes to thousands of students around the world. Nadia is known for her expertise in preparing complex dishes such as the biryani and the haleem. She is a true ambassador for Bangladeshi cuisine and is committed to sharing its rich heritage with the world."
+    },
+    {
+        "id": "004",
+        "name": "Rahat Khan",
+        "experience_years": 5,
+        "img_url": "https://www.mashed.com/img/gallery/easy-dishes-that-make-you-seem-like-a-professional-chef/intro.jpg",
+        "num_recipes": 46,
+        "likes": 1578,
+        "bio": "Rahat Khan is a rising star in the Bangladeshi culinary scene. He is known for his creative and experimental approach to traditional dishes, such as the pitha and the kacchi biryani. Rahat has gained a following on social media for his visually stunning and delicious dishes. He is passionate about using locally-sourced and seasonal ingredients to create dishes that are both delicious and sustainable."
+    },
+    {
+        "id": "005",
+        "name": "Farhan Ahmed",
+        "experience_years": 10,
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4H9G1kI38mWhZKWftmSZQ6MNxRJhieh2QA&usqp=CAU",
+        "num_recipes": 53,
+        "likes": 1986,
+        "bio": "Farhana Ahmed is a chef who specializes in vegetarian and vegan Bangladeshi cuisine. She is known for her innovative use of ingredients such as jackfruit and lentils to create flavorful and nutritious dishes. Farhana is committed to promoting plant-based cuisine and encouraging others to adopt a more sustainable and healthy lifestyle."
+    },
+    {
+        "id": "006",
+        "name": "Sadia Islam",
+        "experience_years": 20,
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMdIFVkhmmbRxyIiA0rwrdacE520gJx81tg&usqp=CAU",
+        "num_recipes": 102,
+        "likes": 4218,
+        "bio": "Sadia Islam is a highly respected chef who has dedicated her career to preserving and promoting the traditional cuisine of Bangladesh. She has won numerous awards for her expertise in dishes such as the chitol maacher muithya and the shutki bhorta. Sadia is committed to passing on her knowledge to future generations and has trained many young chefs in the art of Bangladeshi cooking."
+    }
+]
