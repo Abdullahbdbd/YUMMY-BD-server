@@ -3,19 +3,26 @@ const app = express();
 const cors = require('cors')
 const port = process.env.PORT || 5000;
 
- const categories = require('./Data/categories.json')
+const categories = require('./Data/categories.json')
 
- app.use(cors());
+app.use(cors());
 
-app.get ('/', (req, res)=>{
-res.send ('Chef is king ')
+app.get('/', (req, res) => {
+    res.send('Chef is king ')
 });
 
-app.get('/categories', (req, res) =>{
+app.get('/categories', (req, res) => {
     res.send(categories)
 })
 
-app.listen(port, ()=>{
+app.get('/categories/:id', (req, res) => {
+    const id = req.params.id;
+    console.log(id)
+    const selectedChef = categories.find(c => c.id === id);
+    res.send(selectedChef)
+})
+
+app.listen(port, () => {
     console.log(`Chef is running is port: ${port} `)
 })
 

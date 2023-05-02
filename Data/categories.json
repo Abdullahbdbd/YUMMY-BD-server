@@ -6,7 +6,23 @@
         "img_url": "https://www.staffingattiffanies.com/wp-content/uploads/2021/08/happy-male-indian-chef.jpg",
         "num_recipes": 73,
         "likes": 2415,
-        "bio": "Mridula Alam is a renowned chef with over a decade of experience in traditional Bangladeshi cuisine. She has been featured in several cooking shows and is known for her signature dishes, such as the Dhaka-style beef curry and the spicy shrimp jhol. Mridula is passionate about using locally-sourced ingredients and showcasing the rich flavors of Bangladeshi."
+        "bio": "Mridula Alam is a renowned chef with over a decade of experience in traditional Bangladeshi cuisine. She has been featured in several cooking shows and is known for her signature dishes, such as the Dhaka-style beef curry and the spicy shrimp jhol. Mridula is passionate about using locally-sourced ingredients and showcasing the rich flavors of Bangladeshi.",
+        "img": "https://img-global.cpcdn.com/recipes/0c64af79db763257/1200x630cq70/photo.jpg",
+        "rname": "Spicy Chicken Curry",
+        "ingredients": [
+            "1 lb chicken, cut into pieces",
+            "2 onions, sliced",
+            "2 cloves garlic, minced",
+            "1 inch ginger, grated",
+            "1 tsp turmeric"
+        ],
+        "method": "1. Heat oil in a large pan over medium-high heat. 2. Add onions, garlic, and ginger and cook until onions are soft. 3. Add chicken and cook until browned on all sides. 4. Add turmeric, cumin, coriander, chili powder, and salt and stir well. 5. Add water and bring to a simmer. 6. Cover and cook for 20-25 minutes or until chicken is cooked through. Serve with rice.",
+          "rating": 4.5,
+          "img2": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/masoor-dal.jpg",
+          "rname2": "Masoor Daal",
+          "img3": "https://i.ndtvimg.com/i/2018-04/aloo-gobhi_650x400_51523431099.jpg",
+          "rname3": "Aloo Gobi"
+
     },
     {
         "id": "002",
@@ -15,7 +31,22 @@
         "img_url": "https://www.libm.co.uk/wp-content/uploads/2017/08/158-Diploma-in-Professional-Chef.jpg",
         "num_recipes": 62,
         "likes": 1862,
-        "bio": "Kabir Ahmed is a young and innovative chef who has gained a following for his fusion cuisine that combines traditional Bangladeshi flavors with modern techniques. He has won several awards for his unique dishes, such as the chicken tikka masala pizza and the chana masala tacos. Kabir is committed to creating exciting and accessible cuisine that appeals to a diverse audience."
+        "bio": "Kabir Ahmed is a young and innovative chef who has gained a following for his fusion cuisine that combines traditional Bangladeshi flavors with modern techniques. He has won several awards for his unique dishes, such as the chicken tikka masala pizza and the chana masala tacos. Kabir is committed to creating exciting and accessible cuisine that appeals to a diverse audience.",
+        "img": "https://www.krumpli.co.uk/wp-content/uploads/2020/10/Beef-Bhuna-1.jpg",
+        "rname": "Beef Bhuna",
+        "ingredients": [
+            "1 lb chicken, cut into pieces",
+            "2 onions, sliced",
+            "2 cloves garlic, minced",
+            "1 inch ginger, grated",
+            "1 tsp turmeric"
+        ],
+        "method": "1. Heat oil in a large pan over medium-high heat. 2. Add onions, garlic, and ginger and cook until onions are soft. 3. Add chicken and cook until browned on all sides. 4. Add turmeric, cumin, coriander, chili powder, and salt and stir well. 5. Add water and bring to a simmer. 6. Cover and cook for 20-25 minutes or until chicken is cooked through. Serve with rice.",
+          "rating": 4.5,
+          "img2": "https://www.saltandlavender.com/wp-content/uploads/2019/04/thai-shrimp-curry-recipe-1.jpg",
+          "rname2": "Shrimp Curry",
+          "img3": "https://gypsyplate.com/wp-content/uploads/2022/10/palak-paneer_square-480x480.jpg",
+          "rname3": "Palak Paneer"
     },
     {
         "id": "003",
@@ -24,7 +55,22 @@
         "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRjb4xDJX9rmtxyW6CcdqzBTMNy6rJHowbuw&usqp=CAU",
         "num_recipes": 89,
         "likes": 3271,
-        "bio": "Nadia Begum is a veteran chef who has spent her career preserving and promoting traditional Bangladeshi cuisine. She is the author of several cookbooks and has taught cooking classes to thousands of students around the world. Nadia is known for her expertise in preparing complex dishes such as the biryani and the haleem. She is a true ambassador for Bangladeshi cuisine and is committed to sharing its rich heritage with the world."
+        "bio": "Nadia Begum is a veteran chef who has spent her career preserving and promoting traditional Bangladeshi cuisine. She is the author of several cookbooks and has taught cooking classes to thousands of students around the world. Nadia is known for her expertise in preparing complex dishes such as the biryani and the haleem. She is a true ambassador for Bangladeshi cuisine and is committed to sharing its rich heritage with the world.",
+        "img": "https://img-global.cpcdn.com/recipes/0c64af79db763257/1200x630cq70/photo.jpg",
+        "rname": "Spicy Chicken Curry",
+        "ingredients": [
+            "1 lb chicken, cut into pieces",
+            "2 onions, sliced",
+            "2 cloves garlic, minced",
+            "1 inch ginger, grated",
+            "1 tsp turmeric"
+        ],
+        "method": "1. Heat oil in a large pan over medium-high heat. 2. Add onions, garlic, and ginger and cook until onions are soft. 3. Add chicken and cook until browned on all sides. 4. Add turmeric, cumin, coriander, chili powder, and salt and stir well. 5. Add water and bring to a simmer. 6. Cover and cook for 20-25 minutes or until chicken is cooked through. Serve with rice.",
+          "rating": 4.5,
+          "img2": "https://gypsyplate.com/wp-content/uploads/2022/10/palak-paneer_square-480x480.jpg",
+          "rname2": "Masoor Daal",
+          "img3": "https://i.ndtvimg.com/i/2018-04/aloo-gobhi_650x400_51523431099.jpg",
+          "rname3": "Palak Paneer"
     },
     {
         "id": "004",
@@ -33,7 +79,22 @@
         "img_url": "https://www.mashed.com/img/gallery/easy-dishes-that-make-you-seem-like-a-professional-chef/intro.jpg",
         "num_recipes": 46,
         "likes": 1578,
-        "bio": "Rahat Khan is a rising star in the Bangladeshi culinary scene. He is known for his creative and experimental approach to traditional dishes, such as the pitha and the kacchi biryani. Rahat has gained a following on social media for his visually stunning and delicious dishes. He is passionate about using locally-sourced and seasonal ingredients to create dishes that are both delicious and sustainable."
+        "bio": "Rahat Khan is a rising star in the Bangladeshi culinary scene. He is known for his creative and experimental approach to traditional dishes, such as the pitha and the kacchi biryani. Rahat has gained a following on social media for his visually stunning and delicious dishes. He is passionate about using locally-sourced and seasonal ingredients to create dishes that are both delicious and sustainable.",
+        "img": "https://www.saltandlavender.com/wp-content/uploads/2019/04/thai-shrimp-curry-recipe-1.jpg",
+        "rname": "Shrimp Curry",
+        "ingredients": [
+            "1 lb chicken, cut into pieces",
+            "2 onions, sliced",
+            "2 cloves garlic, minced",
+            "1 inch ginger, grated",
+            "1 tsp turmeric"
+        ],
+        "method": "1. Heat oil in a large pan over medium-high heat. 2. Add onions, garlic, and ginger and cook until onions are soft. 3. Add chicken and cook until browned on all sides. 4. Add turmeric, cumin, coriander, chili powder, and salt and stir well. 5. Add water and bring to a simmer. 6. Cover and cook for 20-25 minutes or until chicken is cooked through. Serve with rice.",
+          "rating": 4.5,
+          "img2": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/masoor-dal.jpg",
+          "rname2": "Masoor Daal",
+          "img3": "https://i.ndtvimg.com/i/2018-04/aloo-gobhi_650x400_51523431099.jpg",
+          "rname3": "Aloo Gobi"
     },
     {
         "id": "005",
@@ -42,7 +103,22 @@
         "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4H9G1kI38mWhZKWftmSZQ6MNxRJhieh2QA&usqp=CAU",
         "num_recipes": 53,
         "likes": 1986,
-        "bio": "Farhana Ahmed is a chef who specializes in vegetarian and vegan Bangladeshi cuisine. She is known for her innovative use of ingredients such as jackfruit and lentils to create flavorful and nutritious dishes. Farhana is committed to promoting plant-based cuisine and encouraging others to adopt a more sustainable and healthy lifestyle."
+        "bio": "Farhana Ahmed is a chef who specializes in vegetarian and vegan Bangladeshi cuisine. She is known for her innovative use of ingredients such as jackfruit and lentils to create flavorful and nutritious dishes. Farhana is committed to promoting plant-based cuisine and encouraging others to adopt a more sustainable and healthy lifestyle.",
+        "img": "https://img-global.cpcdn.com/recipes/0c64af79db763257/1200x630cq70/photo.jpg",
+        "rname": "Spicy Chicken Curry",
+        "ingredients": [
+            "1 lb chicken, cut into pieces",
+            "2 onions, sliced",
+            "2 cloves garlic, minced",
+            "1 inch ginger, grated",
+            "1 tsp turmeric"
+        ],
+        "method": "1. Heat oil in a large pan over medium-high heat. 2. Add onions, garlic, and ginger and cook until onions are soft. 3. Add chicken and cook until browned on all sides. 4. Add turmeric, cumin, coriander, chili powder, and salt and stir well. 5. Add water and bring to a simmer. 6. Cover and cook for 20-25 minutes or until chicken is cooked through. Serve with rice.",
+          "rating": 4.5,
+          "img2": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/masoor-dal.jpg",
+          "rname2": "Masoor Daal",
+          "img3": "https://i.ndtvimg.com/i/2018-04/aloo-gobhi_650x400_51523431099.jpg",
+          "rname3": "Aloo Gobi"
     },
     {
         "id": "006",
@@ -51,6 +127,21 @@
         "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMdIFVkhmmbRxyIiA0rwrdacE520gJx81tg&usqp=CAU",
         "num_recipes": 102,
         "likes": 4218,
-        "bio": "Sadia Islam is a highly respected chef who has dedicated her career to preserving and promoting the traditional cuisine of Bangladesh. She has won numerous awards for her expertise in dishes such as the chitol maacher muithya and the shutki bhorta. Sadia is committed to passing on her knowledge to future generations and has trained many young chefs in the art of Bangladeshi cooking."
+        "bio": "Sadia Islam is a highly respected chef who has dedicated her career to preserving and promoting the traditional cuisine of Bangladesh. She has won numerous awards for her expertise in dishes such as the chitol maacher muithya and the shutki bhorta. Sadia is committed to passing on her knowledge to future generations and has trained many young chefs in the art of Bangladeshi cooking.",
+        "img": "https://img-global.cpcdn.com/recipes/0c64af79db763257/1200x630cq70/photo.jpg",
+        "rname": "Spicy Chicken Curry",
+        "ingredients": [
+            "1 lb chicken, cut into pieces",
+            "2 onions, sliced",
+            "2 cloves garlic, minced",
+            "1 inch ginger, grated",
+            "1 tsp turmeric"
+        ],
+        "method": "1. Heat oil in a large pan over medium-high heat. 2. Add onions, garlic, and ginger and cook until onions are soft. 3. Add chicken and cook until browned on all sides. 4. Add turmeric, cumin, coriander, chili powder, and salt and stir well. 5. Add water and bring to a simmer. 6. Cover and cook for 20-25 minutes or until chicken is cooked through. Serve with rice.",
+          "rating": 4.5,
+          "img2": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/masoor-dal.jpg",
+          "rname2": "Masoor Daal",
+          "img3": "https://i.ndtvimg.com/i/2018-04/aloo-gobhi_650x400_51523431099.jpg",
+          "rname3": "Aloo Gobi"
     }
 ]
